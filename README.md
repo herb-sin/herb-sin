@@ -1,12 +1,5 @@
-Analista de Sistemas egresso de Administração de Empresas atuando a 5 anos em tecnologia tendo passado por áreas como assistente configurador e
-levantamento de requisitos para CRM's e ERP's Oracle e Salesforce, analista de qualidade de hardwares e softwares telecom, suporte nível 1(SLA),
-validações, desenho de jornadas e documentação para usuários.
+Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Inovação e Tecnologia, atualmente cursando Gestão de Dados. Tenho 4 anos de experiência como Analista de Testes em softwares bancários (contratos, cartões, imobiliário) colaborando em equipes multidisciplinares, CI/CD, internas e externas, inclusive em âmbito internacional, no último ano com foco em automação de testes para API’s e Front-end com BDD, Gherkin, Cucumber, Cypress e Javascript.
 
-Iniciante em: Docker, Jira, Git, HTML5, CSS3, Javascript, Java, Python, Docker, AWS, Linux, Windows Active Directory, Zabbix, PHPMyAdmin, Apache, SAMBA,
-NFS, NextCloud, GLPI, RedMine, hardening de SO's, protocolos TCP-IP e em abstração, modelagem e implementação de bancos de dados relacionais (SQL, MySQL,
-Postgre, MariaDB).
+Atuei também como 'startupeiro', liderando o desenvolvimento de uma solução na área de saúde e bem-estar — app para crise emergencial de Asma, pré-acelerado pela JUMP/Porto Digital no programa IdeiAz, acelerado pelo programa InovAtiva Brasil e graduado no InovAtiva Experience, participando tambeḿ em iniciativas de inovação aberta com GSK e AstraZeneca.
 
-<!---
-herb-sin/herb-sin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tenho grande interesse por tecnologia, especialmente em desenvolvimento orientado a objetos com Python, interfaces responsivas e estruturação de dados. Evangelizador Linux (Debian 12 com KDE Wayland).
