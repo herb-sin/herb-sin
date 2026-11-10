@@ -1,30 +1,55 @@
-Atuo na interseção entre Engenharia de Software, Qualidade e Ciência de Dados, com 4+ anos de experiência no ecossistema de Fintechs e Open Finance. Utilizo essa bagagem técnica e visão de produto para me reposicionar, focando em resolver problemas complexos na linha de frente, integrar sistemas críticos e construir soluções de ponta a ponta diretamente alinhadas ao negócio.
+# Olá, sou o Herbert Jung Sin 👋
 
-Colaboração direta com equipes multifuncionais internacionais (Espanha, Chile, EUA e China), garantindo resiliência, conformidade e integração contínua em ambientes de alta criticidade. Trabalho no ciclo completo de software: análise e execução de testes funcionais, de integração, E2E, usabilidade, resiliência de APIs, bancos de dados e aplicações mobile, aliando automação em pipelines de CI/CD a boas práticas de segurança da informação (ISO 27001).
+Atuo na interseção entre **Engenharia de Software**, **Qualidade (QA)** e **Ciência de Dados**, com mais de 4 anos de experiência no ecossistema de **Fintechs** e **Open Finance**. Uno bagagem técnica e visão de produto para atuar na resolução de problemas complexos, integração de sistemas críticos e construção de soluções resilientes de ponta a ponta.
 
-💡 Perfil Builder, AI-Driven & Pesquisa Aplicada
-Utilizo Desenvolvimento Assistido por IA, Engenharia de Dados e prototipação rápida para acelerar a entrega de produtos de alto impacto: Sou idealizador e desenvolvedor do AFILAXY — ecossistema open-source de saúde digital focado em transformar a triagem e o manejo da asma em gestão clínica contínua.
+Tenho histórico de atuação direta com times multifuncionais e internacionais (Espanha, Chile, EUA e China), atuando no ciclo completo de desenvolvimento: análise e execução de testes funcionais, integração, E2E, usabilidade, resiliência de APIs, bancos de dados e mobile — aliando automação em pipelines de **CI/CD** a diretrizes de segurança da informação (**ISO/IEC 27001**).
 
-🚀 Reconhecimentos e Marcos do Projeto:
-🏢 Incubado no PIER (SEBRAE) com apoio do Parque Tecnológico de Santos
-🏆 Pré-acelerado no programa IdeiAz (Anprotec / InovAtiva / JUMP - Porto Digital)
-🎓 Graduado pelo InovAtiva Brasil
-📄 Artigo Científico publicado nos anais do ENIAC/BRACIS: "Predicting Asthma Exacerbations in Digital Health Ecosystems Using Machine Learning Frameworks"
-📂 Repositório Open Source: github.com/herb-sin
+---
 
-📊 Aprendizado Contínuo & Ciência de Dados
-Movido pelo conceito de Lifelong Learning, conecto arquitetura de software, governança de dados e Inteligência Artificial. Atualmente curso Gestão de Dados pela UFPI, aprofundando em Data Quality, pipelines e aplicação prática de algoritmos de Machine Learning na resolução de dores reais de clientes e produtos.
+### 💡 Perfil Builder, AI-Driven & Pesquisa Aplicada
 
-🧰 Stack Tecnológica & Certificações
--Engenharia & Automação: Playwright | Cypress | Selenium | Postman | Pytest | BDD / Gherkin | CI/CD
--Dados, IA & ML: Python | SQL | Scikit-Learn | XGBoost | Jupyter | Generative AI
--Infra & Dev: Linux | AWS | Git | GitHub | Node.js | TypeScript | Kotlin Multiplatform (KMM)
+Com foco em desenvolvimento assistido por IA, engenharia de dados e prototipação ágil de produtos de impacto:
 
-📜 Licenças Globais:
-CTFL – Certified Tester Foundation Level (ISTQB®)
-ISFS – Information Security Foundation (ISO/IEC 27001 / EXIN®)
+* **Idealizador e Desenvolvedor do [AFILAXY](https://github.com/herb-sin):** Ecossistema *open-source* de saúde digital voltado à transformação da triagem e manejo contínuo da asma.
+* **Marcos e Reconhecimentos:**
+  * 🏢 Incubado no **PIER (SEBRAE)** com apoio do **Parque Tecnológico de Santos**
+  * 🏆 Pré-acelerado no programa **IdeiAz** (Anprotec / InovAtiva / JUMP - Porto Digital)
+  * 🎓 Graduado pelo **InovAtiva Brasil**
+  * 📄 Publicação científica: *"Predicting Asthma Exacerbations in Digital Health Ecosystems Using Machine Learning Frameworks"* (Anais do ENIAC / BRACIS)
 
-🗣️ Idiomas:
-Inglês Fluente | Espanhol Fluente
-🆔 ORCID: https://orcid.org/0009-0003-5113-5511
-🔗 Currículo Lattes: https://lattes.cnpq.br/4042290499261387
+---
+
+### 📊 Aprendizado Contínuo & Dados
+
+Em constante evolução através do *Lifelong Learning*, conectando arquitetura de software, governança de dados e IA. Cursando **Gestão de Dados pela UFPI**, com foco em *Data Quality*, pipelines analíticos e aplicação de modelos de *Machine Learning* para solução de problemas de negócio.
+
+---
+
+### 🧰 Stack Tecnológica
+
+| Área | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Engenharia & Automação** | Playwright, Cypress, Selenium, Postman, Pytest, BDD / Gherkin, CI/CD |
+| **Dados, IA & ML** | Python, SQL, Scikit-Learn, XGBoost, Jupyter, Generative AI |
+| **Infraestrutura & Dev** | Linux, AWS, Git, GitHub, Node.js, TypeScript, Kotlin Multiplatform (KMM) |
+
+---
+
+### 📜 Certificações & Idiomas
+
+* **CTFL®** – Certified Tester Foundation Level (*ISTQB®*)
+* **ISFS** – Information Security Foundation based on ISO/IEC 27001 (*EXIN®*)
+* 🗣️ **Idiomas:** Inglês (Fluente) | Espanhol (Fluente) | Português (Nativo)
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://orcid.org/0009-0003-5113-5511" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--5113--5511-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://lattes.cnpq.br/4042290499261387" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Lattes-003366?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://github.com/herb-sin" target="_blank">
